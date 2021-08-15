@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/i_am_poor/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/i_am_poor/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/flutter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/mi_card_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/mi_card_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/row_column/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/row_column/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/i_am_rich/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/i_am_rich/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/testing_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/testing_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/magic-8-ball-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/magic-8-ball-flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/mi_cards/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/mi_cards/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/dicee-flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter Android projects/dicee-flutter/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

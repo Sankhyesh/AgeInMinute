@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter Android projects/dicee-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter Android projects/i_am_rich" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter Android projects/magic-8-ball-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter Android projects/mi_card_flutter" vcs="Git" />
+  </component>
+</project>
